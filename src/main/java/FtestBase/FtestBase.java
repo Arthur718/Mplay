@@ -14,7 +14,7 @@ public static void readData () throws IOException {
     fs= new FileInputStream(System.getProperty("user.dir")+"/src/main/resources/file.properties");
     properties= new Properties();
     properties.load(fs);
-    //System.out.println(properties.getProperty("Name"));
+   // //System.out.println(properties.getProperty("Name"));
     //System.out.println(properties.getProperty("City"));
     return;
 }
