@@ -36,7 +36,7 @@ public class Base {
         //ChromeDriverManager.chromedriver().setup();
         driver = new ChromeDriver();
 
-        driver.get("http://spree.shiftedtech.com/");
+       // driver.get("http://spree.shiftedtech.com/");
 
 
 

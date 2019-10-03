@@ -1,6 +1,8 @@
 package test;
 
 
+import org.apache.http.util.Asserts;
+import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -37,11 +39,12 @@ public class UberTest extends Base {
         //System.out.println(pickup.getText());
 
 
-        WebDriverWait wait = new WebDriverWait(driver,30);
+        WebDriverWait wait = new WebDriverWait(driver,10);
         wait.until(ExpectedConditions.presenceOfElementLocated((pickup)));
         WebElement done = driver.findElement(pickup);
-        done.sendKeys("19 cornish st,staten island ");
-       delay(2000);
+        delay(2000);
+        done.sendKeys("19 Cornish Street  ");
+       delay(5000);
 
 
 
@@ -66,8 +69,15 @@ public class UberTest extends Base {
        Actions actions3= actions2.sendKeys(Keys.ENTER);
        actions3.perform();
 
+       delay(4000);
 
+        WebElement opt = driver.findElement(By.xpath("//div[@class='be']"));
 
+        String val = opt.getText();
+
+        Assert.assertTrue("Your options",val.contains("Your options"));
+
+        //div[@class="pbBody"][.//h3[text()='Employment']
 
 
 

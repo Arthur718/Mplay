@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23a512fc-4bc2-4e91-8da2-9b1df9dffe3b" name="Default Changelist" comment="" />
+    <list default="true" id="23a512fc-4bc2-4e91-8da2-9b1df9dffe3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/UberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/UberTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/UberTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/UberTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,55 +19,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-118190769">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="14" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="5" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.2" value="5" />
-          <entry key="project.opened" value="14" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="308" />
-          <entry key="xml" value="31" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="3132" />
-          <entry key="Properties" value="42" />
-          <entry key="XML" value="31" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="10" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-    </session>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/Base.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="70" column="1" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="70" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/UberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6555">
-              <caret line="437" column="48" selection-start-line="437" selection-start-column="48" selection-end-line="437" selection-end-column="48" />
+            <state relative-caret-position="-870">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -81,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/Test1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -102,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FtestBase/FtestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
+            <state relative-caret-position="285">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -114,7 +84,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FileTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="30">
               <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,9 +95,10 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="19" selection-start-line="6" selection-start-column="3" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -135,7 +106,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/LogInB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="240">
               <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -147,7 +118,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/LoginSend.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="375">
               <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -165,18 +136,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/test/LoginSend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/UberTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Test1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Base.java" />
         <option value="$PROJECT_DIR$/src/main/resources/file.properties" />
         <option value="$PROJECT_DIR$/src/main/java/FtestBase/FtestBase.java" />
         <option value="$PROJECT_DIR$/src/test/java/FileTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/LogInB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Test1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Base.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/UberTest.java" />
       </list>
     </option>
   </component>
@@ -187,10 +161,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="122" />
     <option name="y" value="23" />
-    <option name="width" value="1400" />
+    <option name="width" value="1235" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -199,32 +173,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -295,14 +243,41 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name=".idea" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Mplay" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="Mplay" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555195552244" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556919676197" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -321,25 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test1.Login">
-    <configuration name="FileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Mplay" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FileTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileTest.testProperties" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Mplay" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FileTest" />
-      <option name="METHOD_NAME" value="testProperties" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UberTest.Utest2">
     <configuration name="Test1.Login" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Mplay" />
       <extension name="coverage">
@@ -366,6 +323,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.UberTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -386,20 +344,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UberTest.Utest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mplay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.UberTest" />
+      <option name="METHOD_NAME" value="Utest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UberTest.Utest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mplay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.UberTest" />
+      <option name="METHOD_NAME" value="Utest5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.Test1.Login" />
-      <item itemvalue="JUnit.UberTest.Utest" />
       <item itemvalue="JUnit.UberTest" />
-      <item itemvalue="JUnit.FileTest.testProperties" />
-      <item itemvalue="JUnit.FileTest" />
+      <item itemvalue="JUnit.UberTest.Utest5" />
+      <item itemvalue="JUnit.UberTest.Utest" />
+      <item itemvalue="JUnit.UberTest.Utest2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test1.Login" />
-        <item itemvalue="JUnit.FileTest.testProperties" />
-        <item itemvalue="JUnit.FileTest" />
-        <item itemvalue="JUnit.UberTest" />
+        <item itemvalue="JUnit.UberTest.Utest2" />
         <item itemvalue="JUnit.UberTest.Utest" />
+        <item itemvalue="JUnit.Test1.Login" />
+        <item itemvalue="JUnit.UberTest" />
+        <item itemvalue="JUnit.UberTest.Utest5" />
       </list>
     </recent_temporary>
   </component>
@@ -417,42 +407,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileTest_testProperties - 2019.04.11 at 08h 38m 35s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 20h 53m 54s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 00m 48s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 20h 54m 22s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 01m 55s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 20h 55m 25s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 03m 48s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 20h 56m 58s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 04m 31s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 20h 58m 59s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 05m 18s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 21h 00m 06s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 06m 03s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 21h 01m 16s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 07m 21s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.08.19 at 21h 02m 40s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FileTest_testProperties - 2019.04.12 at 19h 56m 34s.xml">
-      <configuration name="FileTest.testProperties" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest - 2019.09.28 at 14h 19m 31s.xml">
+      <configuration name="UberTest.Utest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test1_Login - 2019.04.13 at 18h 45m 57s.xml">
-      <configuration name="Test1.Login" configurationId="JUnit" />
+    <history-entry file="UberTest_Utest2 - 2019.09.28 at 14h 24m 18s.xml">
+      <configuration name="UberTest.Utest2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1400" height="877" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29970545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3982808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -464,7 +453,7 @@
       <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3299363" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -472,9 +461,10 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
       <window_info anchor="bottom" id="DB Execution Console" order="11" />
       <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="ConsoleMavenPlugin" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -483,6 +473,8 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="JSON Utils" order="9" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
@@ -513,28 +505,23 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Downloads/src.java">
+    <entry file="file://$PROJECT_DIR$/../Downloads/src.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/File.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Base.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="81" lean-forward="true" selection-start-line="1" selection-start-column="81" selection-end-line="1" selection-end-column="81" />
+        <state relative-caret-position="420">
+          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/lib/src.zip!/java.base/java/io/File.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="327" column="9" selection-start-line="327" selection-start-column="9" selection-end-line="327" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/UberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6555">
-          <caret line="437" column="48" selection-start-line="437" selection-start-column="48" selection-end-line="437" selection-end-column="48" />
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -550,7 +537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FtestBase/FtestBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
+        <state relative-caret-position="285">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -560,7 +547,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FileTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="30">
           <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -569,15 +556,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="19" selection-start-line="6" selection-start-column="3" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/LogInB.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="240">
           <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -587,7 +575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/LoginSend.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="375">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -595,20 +583,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/UberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="70" column="1" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="70" selection-end-column="1" />
+        <state relative-caret-position="-870">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
